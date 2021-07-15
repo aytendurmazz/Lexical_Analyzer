@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1589538280 source:c:\users\ayten\masaüstü\lexer\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1589538280 source:c:\users\ayten\masaüstü\ozlemkarabulut_05170000061_aytendurmaz05170000062\lexer\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
